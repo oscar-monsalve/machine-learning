@@ -1,6 +1,6 @@
 # Virtual environment
 
-According to the recommended venv recommended by the book, [uv](https://docs.astral.sh/uv/) was used to create the venv as follows:
+According to the book's recommended virtual environment, [uv](https://docs.astral.sh/uv/) was used to create the venv as follows:
 
 - Create the virtual environment in book's directory (```pyml-book-raschka```):
 
