@@ -8,3 +8,10 @@ Study, review and reference of:
 - Probability theory (chapters 18 to 20).
 
 Book's GitHub repository: https://github.com/cosmic-cortex/mathematics-of-machine-learning-book.
+
+
+### Install tk to execute some book's script examples
+
+```shell
+sudo pacman -S tk
+```
