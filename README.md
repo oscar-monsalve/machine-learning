@@ -7,6 +7,9 @@ ML learning from scratch.
 - [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html) by [Sebastian Raschka](https://sebastianraschka.com/all-books/) (2022).
   [Book's github repo](https://github.com/rasbt/machine-learning-book).
 
+- [Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning](https://www.amazon.com/-/es/Mathematics-Machine-Learning-calculus-probability/dp/1837027870/ref=sr_1_3?sr=8-3) by Tivadar Danka (2025).
+  [Book's github repo](https://github.com/cosmic-cortex/mathematics-of-machine-learning-book).
+
 - [Machine Learning Engineering](https://www.amazon.com/-/es/dp/1999579577/?coliid=I3VG0NDYXHGY4H&colid=2Y0O8S7R9JX0K&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it) by Andriy Burkov (2020).
 
 - [The Hundred-Page Machine Learning Book (The Hundred-Page Books)](https://www.amazon.com/-/es/dp/1777005477/?coliid=I1IM2ZOB0TOE6Z&colid=2Y0O8S7R9JX0K&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) by Andriy Burkov (2019).
