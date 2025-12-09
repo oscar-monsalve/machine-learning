@@ -10,6 +10,9 @@ ML learning from scratch.
 - [Mathematics of Machine Learning: Master linear algebra, calculus, and probability for machine learning](https://www.amazon.com/-/es/Mathematics-Machine-Learning-calculus-probability/dp/1837027870/ref=sr_1_3?sr=8-3) by Tivadar Danka (2025).
   [Book's github repo](https://github.com/cosmic-cortex/mathematics-of-machine-learning-book).
 
+- [Mathematics for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X) by Marc Peter Deisenroth (2020).
+  [Book's github repo](https://github.com/mml-book/mml-book.github.io). [Book's website](https://mml-book.github.io/).
+
 - [Machine Learning Engineering](https://www.amazon.com/-/es/dp/1999579577/?coliid=I3VG0NDYXHGY4H&colid=2Y0O8S7R9JX0K&psc=0&ref_=list_c_wl_lv_ov_lig_dp_it) by Andriy Burkov (2020).
 
 - [The Hundred-Page Machine Learning Book (The Hundred-Page Books)](https://www.amazon.com/-/es/dp/1777005477/?coliid=I1IM2ZOB0TOE6Z&colid=2Y0O8S7R9JX0K&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) by Andriy Burkov (2019).
